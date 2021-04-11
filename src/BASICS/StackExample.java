@@ -1,4 +1,4 @@
-package UNIT1;
+package BASICS;
 
 // stack is also in the Java Collection framework.
 // The stack is based on the basic principle - FIRST IN FIRST OUR

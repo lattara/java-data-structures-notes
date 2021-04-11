@@ -1,4 +1,4 @@
-package UNIT1;
+package BASICS;
 
 public class Recursion {
     public static void main(String[] args) {

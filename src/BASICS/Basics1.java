@@ -1,13 +1,7 @@
-package UNIT1;
+package BASICS;
 
-import org.apache.lucene.util.ArrayUtil;
-
-import java.lang.reflect.Array;
-import java.lang.reflect.Parameter;
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
-import java.util.List;
 
 import static java.lang.Integer.parseInt;
 

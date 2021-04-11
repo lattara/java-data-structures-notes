@@ -1,4 +1,4 @@
-package UNIT1;
+package BASICS;
 
 /*
         ArrayList vs. LinkedList
@@ -27,9 +27,6 @@ package UNIT1;
         You frequently need to add and remove items from the beginning, middle or end of the
         list
 */
-
-import org.hibernate.boot.model.relational.AbstractAuxiliaryDatabaseObject;
-import org.hibernate.tool.schema.internal.exec.ScriptTargetOutputToFile;
 
 import java.util.*;
 

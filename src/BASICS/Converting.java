@@ -1,4 +1,4 @@
-package UNIT1;
+package BASICS;
 // converting list to array and vice versa
 import java.util.Arrays;
 import java.util.LinkedList;
